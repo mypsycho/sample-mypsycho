@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     8 mars 2017 23:09:55                                                        
+
+     project    
+     description
+                   
+     Nicolas                                                                
+     ====================================================================== -->
+<project name="project" default="default">
+
+
+    <!-- ================================= 
+          target: default              
+         ================================= -->
+    <target name="default"  description="description">
+        <echo>Build</echo>
+    </target>
+
+
+</project>
